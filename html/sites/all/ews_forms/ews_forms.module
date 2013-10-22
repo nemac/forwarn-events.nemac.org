@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the EWS Forms feature.
+ */
+
+include_once('ews_forms.features.inc');

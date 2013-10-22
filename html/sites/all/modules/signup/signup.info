@@ -1,0 +1,5 @@
+name = Signup
+description = Custom webform module to allow prebuilt lists for counties.
+core = 7.x
+dependencies[] = webform
+dependencies[] = webform_conditional

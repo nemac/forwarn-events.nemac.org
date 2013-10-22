@@ -1,0 +1,22 @@
+/* This file will hold styles that are loaded using the same media query as the wide grid. */
+
+#zone-menu {
+	text-align:left;
+}
+
+#region-preface-first {
+	margin:auto 10px auto 5px;
+	width:60%;
+}
+
+#region-preface-second {
+	margin:auto 0 auto 10px;
+	width:36%;
+}
+
+
+
+.region-user-second-inner {
+	text-align:right;
+}
+

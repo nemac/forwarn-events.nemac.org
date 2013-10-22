@@ -1,0 +1,20 @@
+/* This file will hold styles that are loaded using the same media query as the narrow grid. */
+
+#zone-menu {
+	text-align:center;
+}
+
+#zone-preface {
+	margin-top:0;
+}
+
+#region-preface-first, #region-preface-second {
+	margin:10px 0 auto 0;
+	width:100%;
+}
+
+
+
+.region-user-second-inner {
+	text-align:right;
+}
