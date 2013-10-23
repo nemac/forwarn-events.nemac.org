@@ -20,3 +20,14 @@
 	text-align:right;
 }
 
+#zone-content {
+	overflow:hidden;
+}
+
+.front .view-news .highlight-slide {
+	width:50%;
+}
+
+.front .view-news .highlight-slide p {
+	width:90%;
+}

@@ -34,3 +34,21 @@
 	height:51px;
 	margin-bottom:5px;
 }
+
+#zone-content {
+	overflow:hidden;
+}
+
+.responsive-layout-mobile .view-news .highlight-slide {
+	width:100%;
+	padding:1em;
+}
+
+.front .view-news .highlight-slide p {
+	width:50%;
+	margin-left:15px;
+}
+
+.front .view-news .highlight-slide h2 {
+	margin-left:15px;
+}

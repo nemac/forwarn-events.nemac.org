@@ -18,3 +18,16 @@
 .region-user-second-inner {
 	text-align:right;
 }
+
+#zone-content {
+	overflow:hidden;
+}
+
+.front .view-news .highlight-slide {
+	width:100%;
+}
+
+.front .view-news .highlight-slide p {
+	width:50%;
+}
+
